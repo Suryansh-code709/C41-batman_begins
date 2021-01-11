@@ -1,5 +1,3 @@
-# C41-Project_Batman_Begins
+check out my new project
 
-## 🦇
 
-https://setucoder.github.io/C41-Project_Batman_Begins/
